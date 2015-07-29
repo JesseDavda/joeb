@@ -2,6 +2,7 @@
     <head>
         <!--Materialize CSS CDN's-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" />
+        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Ubuntu' type='text/css' />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
@@ -13,8 +14,9 @@
 
         <!--NavBar-->
         <nav>
-            <div class="nav-wrapper">
+            <div class="nav-wrapper grey darken-4">
                 <a href="#" class="brand-logo">I Think We Got That</a>
+                <img id="logo_img" src="img/logo.jpg" />
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="#">Download</a></li>
                     <li><a href="#">About</a></li>
@@ -38,7 +40,7 @@
         <!--Itunes playlist-->
         <div id="sec_1">
             <iframe id="itunes" src="http://widgets.itunes.apple.com/widget.html?c=us&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=I Think We Got That&m=podcast&e=podcast&w=500&h=150&ids=1016578459&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
-            <!--buttons-->
+            <a id="download" href="https://itunes.apple.com/gb/podcast/i-think-we-got-that-rachel/id1016578459?mt=2" class="waves-effect waves-light btn-large">Dowload The Podcast</a>
         </div>
         <!--Parallax-->
         <div class="parallax-container">
