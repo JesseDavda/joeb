@@ -2,14 +2,21 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+nav {
+    z-index: 1000;
+}
+
+#sec_1 {
+    text-align: center;
+}
+
 #itunes {
     margin-top: 30px;
-    margin-left: 600px;
 }
 
 #download {
     margin-left: 20px;
-    margin-bottom:
+    margin-bottom: 537px;
 }
 
 .brand-logo {
@@ -22,4 +29,10 @@ body {
 
 #logo_img {
     height: 50px;
+    margin-left: 450px;
+    margin-top: 7px;
+}
+
+.slider {
+    margin-top: 64px;
 }
