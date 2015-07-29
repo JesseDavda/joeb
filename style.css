@@ -36,3 +36,21 @@ nav {
 .slider {
     margin-top: 64px;
 }
+
+.parallax-container {
+    height: 400px;
+}
+
+#sec_2 {
+    text-align: center;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+#joe {
+    height: 300px;
+}
+
+#para {
+    text-align: center;
+}
