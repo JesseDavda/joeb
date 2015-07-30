@@ -8,6 +8,7 @@ nav {
 
 #sec_1 {
     text-align: center;
+    display: block;
 }
 
 #itunes {
@@ -15,8 +16,10 @@ nav {
 }
 
 #download {
+    margin-top: 30px;
     margin-left: 20px;
-    margin-bottom: 537px;
+    margin-bottom: 20px;
+    width: 500px;
 }
 
 .brand-logo {
@@ -38,13 +41,12 @@ nav {
 }
 
 .parallax-container {
-    height: 400px;
+    height: 600px;
 }
 
 #sec_2 {
     text-align: center;
     margin-top: 30px;
-    display: inline-block;
 }
 
 #joe {
@@ -53,4 +55,13 @@ nav {
 
 #para {
     text-align: center;
+}
+
+#podcast_bio {
+    text-align: center;
+}
+
+#about_podcast {
+    font-weight: bold;
+    font-size: 15px;
 }
