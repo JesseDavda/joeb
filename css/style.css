@@ -1,0 +1,67 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+nav {
+    z-index: 1000;
+}
+
+#sec_1 {
+    text-align: center;
+    display: block;
+}
+
+#itunes {
+    margin-top: 30px;
+}
+
+#download {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.brand-logo {
+    margin-left: 150px;
+}
+
+.right {
+    margin-right: 150px;
+}
+
+#logo_img {
+    height: 50px;
+    margin-left: 450px;
+    margin-top: 7px;
+}
+
+.slider {
+    margin-top: 64px;
+}
+
+.parallax-container {
+    height: 600px;
+}
+
+#sec_2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#joe {
+    height: 300px;
+}
+
+#para {
+    text-align: center;
+}
+
+#podcast_bio {
+    text-align: center;
+}
+
+#about_podcast {
+    font-weight: bold;
+    font-size: 15px;
+}
