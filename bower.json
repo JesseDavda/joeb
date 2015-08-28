@@ -8,13 +8,6 @@
   "description": "i think we got that website",
   "main": "index.html",
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "wow": "wowjs#~1.1.2"
   }
